@@ -1,0 +1,159 @@
+
+.navbar-brand{
+	margin-left: 30px;
+  padding: 5px 5%;
+  box-shadow: 0px 0px 0px rgb(0 0 0 / 10%);
+ top: 0px;
+  margin-top: 10px;
+}
+.navbar-nav{
+	margin-left: 290px;
+	padding: 5px 5%;
+	justify-content: space-between;
+  background-color: white;
+	box-shadow: 0px 0px 0px rgb(0 0 0 / 10%);
+ top: 0px;
+}
+.navbar-nav a:hover{
+color: black;
+}
+
+h1{
+	font-family: 'Kodchasan', sans-serif;
+	font-size: 80px;
+	font-weight: 1000;
+}
+p{
+	font-family: 'Kodchasan', sans-serif;
+	text-align: left;
+	font-size: 24px;
+	font-weight: 60;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 30%;
+  margin-left: 0px;
+  background: white;
+	padding: 5px 5%;
+	box-shadow: 0px 0px 0px rgb(0 0 0 / 10%);
+ 
+}
+.career-ob{
+	background-color: #e7e2e2;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+.abt-text{
+	font-size: 16px;
+	font-weight: 200px;
+
+}
+.abt-text1{
+	font-size: 35px;
+	font-weight: 500px;
+	text-align: center;
+font-family: 'K2D', sans-serif;
+
+}
+
+.con-text{
+	font-size: 35px;
+	font-weight: 500px;
+	text-align: center;
+	font-family: 'K2D', sans-serif;
+	background-color: white;
+}
+.con-pos{
+	text-align: center;
+  	justify-content: space-between;
+}
+.abt{
+	background-color: #e7e2e2;
+}
+h6{
+	font-family: 'K2D', sans-serif;
+	font-size: 30px;
+
+}
+p1{
+	font-family: 'K2D', sans-serif;
+	font-size: 20px;
+	font-weight: 100px;
+	color: #808080;
+}
+p2{
+	font-family: 'K2D', sans-serif;
+	font-size: 20px;
+	font-weight: 100px;
+	color: #808080;
+}
+h5{
+	font-size: 16px;
+	font-weight: 300px;
+ 
+}
+h2{
+	font-size: 30px;
+	font-weight: 400;
+	font-family: 'K2D', sans-serif;;
+}
+.my-border{
+border-style: solid;
+  border-color: white;
+  border-width: 7px;
+}
+.abt-pic{
+	margin-left: 30px;
+}
+.font-ac{
+font-size: 35px;
+	font-weight: 500px;
+	text-align: center;
+	font-family: 'K2D', sans-serif;
+}
+h7{
+font-family: 'K2D', sans-serif;
+	font-size: 15px;
+	font-weight: 100px;
+	color: white;
+}
+.skill-row{
+background-color: white;
+}
+p9{
+font-family: 'K2D', sans-serif;
+	font-size: 25px;
+	font-weight: 300px;
+	color: black;
+}
+p11{
+
+font-family: 'K2D', sans-serif;
+	font-size: 15px;
+	font-weight: 300px;
+	color: black;}
+.cen-text{
+text-align: center;
+}
+.up-arrow{
+position: absolute;
+margin-left: 30px;
+
+ 
+}
+.down img{
+font-size: 30px;
+  color: #2c2c2c;
+  border: 2px solid #2c2c2c;
+  border-radius: 40px;
+ 
+  padding: 5px 5px;
+  
+}
+.down img:hover{
+background-color: white;
+  color: black;
+   border-color: white;
+  transition: all .42s ease;
+}
